@@ -18,3 +18,14 @@ This repo is all about an implementation of Text summarization using hugging fac
 6. Update Pipeline
 7. update Main.py
 8. Update app.py
+
+
+Tasks List:
+
+- [x] Template Creation
+- [x] Creating Requirements file and setup
+- [x] Logging, exception and utils files
+- [x] Working on notebooks
+- [x] Creating and Following project workflows
+- [x] Dockerfile creation
+- [ ] deployment on AWS
